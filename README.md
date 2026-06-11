@@ -10,6 +10,20 @@ Built as a **3-agent workflow**, all running client-side in a single `index.html
 | **Agent 2 — Visual Designer** *(Gemini-style)* | Generates the card UI — team themes, rarity glows, stat bars, player photos. |
 | **Agent 3 — Game Engine** | Runs the 1v1 Top Trumps logic, mode rules, CPU AI, and win/loss state machine. |
 
+## 📸 Demo
+
+<p align="center">
+  <img src="images/screens/menu.png" width="240" alt="3-agent title screen">
+  &nbsp;&nbsp;
+  <img src="images/screens/card.png" width="240" alt="Your card — Powerplay stats, team theme, rarity">
+</p>
+
+<p align="center">
+  <img src="images/screens/battle.png" width="300" alt="Battle reveal — you win the round">
+  <br>
+  <sub><b>Pick a stat → both cards flip → win logic + the Vizag bonus decide the round 🏆</b></sub>
+</p>
+
 ## ✨ Features
 
 - **8 starter cards** + QR-unlockable bonus cards (Suryakumar Yadav, Rashid Khan)
