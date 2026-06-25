@@ -1,6 +1,6 @@
 # 🏏 IPL Top Trumps 2026
 
-Created with my team @ Google Developer Group's Agentic Premier League 2026
+Created with my team @ Google Developer Group's Agentic Premier League 2026, Visakhapatnam, Bharath
 
 A mobile-first web game — a modern take on the classic **Top Trumps** card game, built around IPL 2026 players, real-world-style stats, and special **"Vizag Performance Bonuses."**
 
